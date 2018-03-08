@@ -1,6 +1,6 @@
 {
   "name": "@dealerslink/node-validation-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of simple data validation and conversion tools",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,6 @@
     "coverage": "nyc --reporter=lcov mocha && cat ./coverage/lcov.info | codacy-coverage",
     "pretty": "gulp pretty"
   },
-  "keywords": [
-    "lodash",
-    "extension",
-    "utility"
-  ],
   "author": "Jay Reardon",
   "dependencies": {
     "@mediaxpost/lodashext": "^1.0.0",
