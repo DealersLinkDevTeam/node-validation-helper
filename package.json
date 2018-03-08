@@ -1,6 +1,6 @@
 {
   "name": "@dealerslink/node-validation-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A set of simple data validation and conversion tools",
   "main": "index.js",
   "scripts": {
